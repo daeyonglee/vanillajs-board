@@ -20,8 +20,7 @@ export const router = () => {
 	const app = document.querySelector("#app");
 
 	if (path === "/") {
-		window.location.href = "/board/list";
-
+		window.location.href = routeNames.boardList;
 		return;
 	}
 	if (!app) return;
