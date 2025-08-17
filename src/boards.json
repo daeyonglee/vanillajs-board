@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "제목1",
+      "content": "내용1",
+      "writer": "이대용",
+      "createdAt": "2025-01-01",
+      "viewCount": 74
+    },
+    {
+      "id": 2,
+      "title": "제목2",
+      "content": "내용2",
+      "writer": "김철수",
+      "createdAt": "2025-01-02",
+      "viewCount": 63
+    },
+    {
+      "id": 3,
+      "title": "제목3",
+      "content": "내용3",
+      "writer": "박영희",
+      "createdAt": "2025-01-03",
+      "viewCount": 97
+    },
+    {
+      "id": 4,
+      "title": "제목4",
+      "content": "내용4",
+      "writer": "최민준",
+      "createdAt": "2025-01-04",
+      "viewCount": 2
+    },
+    {
+      "id": 5,
+      "title": "제목5",
+      "content": "내용5",
+      "writer": "정수빈",
+      "createdAt": "2025-01-05",
+      "viewCount": 31
+    },
+    {
+      "id": 6,
+      "title": "제목6",
+      "content": "내용6",
+      "writer": "이대용",
+      "createdAt": "2025-01-06",
+      "viewCount": 69
+    },
+    {
+      "id": 7,
+      "title": "제목7",
+      "content": "내용7",
+      "writer": "김철수",
+      "createdAt": "2025-01-07",
+      "viewCount": 5
+    },
+    {
+      "id": 8,
+      "title": "제목8",
+      "content": "내용8",
+      "writer": "박영희",
+      "createdAt": "2025-01-08",
+      "viewCount": 52
+    },
+    {
+      "id": 9,
+      "title": "제목9",
+      "content": "내용9",
+      "writer": "최민준",
+      "createdAt": "2025-01-09",
+      "viewCount": 88
+    },
+    {
+      "id": 10,
+      "title": "제목10",
+      "content": "내용10",
+      "writer": "정수빈",
+      "createdAt": "2025-01-10",
+      "viewCount": 81
+    },
+    {
+      "id": 11,
+      "title": "제목11",
+      "content": "내용11",
+      "writer": "이대용",
+      "createdAt": "2025-01-11",
+      "viewCount": 7
+    },
+    {
+      "id": 12,
+      "title": "제목12",
+      "content": "내용12",
+      "writer": "김철수",
+      "createdAt": "2025-01-12",
+      "viewCount": 98
+    },
+    {
+      "id": 13,
+      "title": "제목13",
+      "content": "내용13",
+      "writer": "박영희",
+      "createdAt": "2025-01-13",
+      "viewCount": 23
+    },
+    {
+      "id": 14,
+      "title": "제목14",
+      "content": "내용14",
+      "writer": "최민준",
+      "createdAt": "2025-01-14",
+      "viewCount": 3
+    },
+    {
+      "id": 15,
+      "title": "제목15",
+      "content": "내용15",
+      "writer": "정수빈",
+      "createdAt": "2025-01-15",
+      "viewCount": 4
+    },
+    {
+      "id": 16,
+      "title": "제목16",
+      "content": "내용16",
+      "writer": "이대용",
+      "createdAt": "2025-01-16",
+      "viewCount": 56
+    },
+    {
+      "id": 17,
+      "title": "제목17",
+      "content": "내용17",
+      "writer": "김철수",
+      "createdAt": "2025-01-17",
+      "viewCount": 80
+    },
+    {
+      "id": 18,
+      "title": "제목18",
+      "content": "내용18",
+      "writer": "박영희",
+      "createdAt": "2025-01-18",
+      "viewCount": 1
+    },
+    {
+      "id": 19,
+      "title": "제목19",
+      "content": "내용19",
+      "writer": "최민준",
+      "createdAt": "2025-01-19",
+      "viewCount": 94
+    },
+    {
+      "id": 20,
+      "title": "제목20",
+      "content": "내용20",
+      "writer": "정수빈",
+      "createdAt": "2025-01-20",
+      "viewCount": 57
+    },
+    {
+      "id": 21,
+      "title": "제목21",
+      "content": "내용21",
+      "writer": "이대용",
+      "createdAt": "2025-01-21",
+      "viewCount": 93
+    },
+    {
+      "id": 22,
+      "title": "제목22",
+      "content": "내용22",
+      "writer": "김철수",
+      "createdAt": "2025-01-22",
+      "viewCount": 25
+    },
+    {
+      "id": 23,
+      "title": "제목23",
+      "content": "내용23",
+      "writer": "박영희",
+      "createdAt": "2025-01-23",
+      "viewCount": 82
+    },
+    {
+      "id": 24,
+      "title": "제목24",
+      "content": "내용24",
+      "writer": "최민준",
+      "createdAt": "2025-01-24",
+      "viewCount": 62
+    },
+    {
+      "id": 25,
+      "title": "제목25",
+      "content": "내용25",
+      "writer": "정수빈",
+      "createdAt": "2025-01-25",
+      "viewCount": 41
+    },
+    {
+      "id": 26,
+      "title": "제목26",
+      "content": "내용26",
+      "writer": "이대용",
+      "createdAt": "2025-01-26",
+      "viewCount": 45
+    },
+    {
+      "id": 27,
+      "title": "제목27",
+      "content": "내용27",
+      "writer": "김철수",
+      "createdAt": "2025-01-27",
+      "viewCount": 43
+    },
+    {
+      "id": 28,
+      "title": "제목28",
+      "content": "내용28",
+      "writer": "박영희",
+      "createdAt": "2025-01-28",
+      "viewCount": 30
+    },
+    {
+      "id": 29,
+      "title": "제목29",
+      "content": "내용29",
+      "writer": "최민준",
+      "createdAt": "2025-01-29",
+      "viewCount": 29
+    },
+    {
+      "id": 30,
+      "title": "제목30",
+      "content": "내용30",
+      "writer": "정수빈",
+      "createdAt": "2025-01-30",
+      "viewCount": 81
+    },
+    {
+      "id": 31,
+      "title": "제목31",
+      "content": "내용31",
+      "writer": "이대용",
+      "createdAt": "2025-01-31",
+      "viewCount": 14
+    },
+    {
+      "id": 32,
+      "title": "제목32",
+      "content": "내용32",
+      "writer": "김철수",
+      "createdAt": "2025-02-01",
+      "viewCount": 26
+    },
+    {
+      "id": 33,
+      "title": "제목33",
+      "content": "내용33",
+      "writer": "박영희",
+      "createdAt": "2025-02-02",
+      "viewCount": 63
+    },
+    {
+      "id": 34,
+      "title": "제목34",
+      "content": "내용34",
+      "writer": "최민준",
+      "createdAt": "2025-02-03",
+      "viewCount": 91
+    },
+    {
+      "id": 35,
+      "title": "제목35",
+      "content": "내용35",
+      "writer": "정수빈",
+      "createdAt": "2025-02-04",
+      "viewCount": 60
+    },
+    {
+      "id": 36,
+      "title": "제목36",
+      "content": "내용36",
+      "writer": "이대용",
+      "createdAt": "2025-02-05",
+      "viewCount": 5
+    },
+    {
+      "id": 37,
+      "title": "제목37",
+      "content": "내용37",
+      "writer": "김철수",
+      "createdAt": "2025-02-06",
+      "viewCount": 43
+    },
+    {
+      "id": 38,
+      "title": "제목38",
+      "content": "내용38",
+      "writer": "박영희",
+      "createdAt": "2025-02-07",
+      "viewCount": 53
+    },
+    {
+      "id": 39,
+      "title": "제목39",
+      "content": "내용39",
+      "writer": "최민준",
+      "createdAt": "2025-02-08",
+      "viewCount": 27
+    },
+    {
+      "id": 40,
+      "title": "제목40",
+      "content": "내용40",
+      "writer": "정수빈",
+      "createdAt": "2025-02-09",
+      "viewCount": 51
+    }
+  ]
+}
