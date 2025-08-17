@@ -19,7 +19,11 @@ export const router = () => {
 	const pageComponent = routes[path];
 	const app = document.querySelector("#app");
 
-	if (path === "/") window.location.href = "/board/list";
+	if (path === "/") {
+		window.location.href = "/board/list";
+
+		return;
+	}
 	if (!app) return;
 
 	if (pageComponent) {
