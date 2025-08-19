@@ -20,7 +20,6 @@ const BoardWrite = {
 				<h1>게시글 ${id ? "수정" : "쓰기"}</h1>
 				<form class="board-form">
 					<input id="id" type="hidden" value="${id}" />
-					<input id="content" type="hidden" value="${board.content}" />
 					<div class="mb-3">
 						<label for="title">제목</label>
 						<input class="form-control" required id="title" type="text" name="title" value="${board.title}" />
@@ -57,7 +56,6 @@ const BoardWrite = {
 
 		quill.on("text-change", (delta, oldDelta, source) => {
 			if (source === "user") {
-				document.getElementById("content").value = quill.root.innerHTML;
 				document.getElementById("byte").textContent = getByteOfString(quill.root.innerText);
 			}
 		});
@@ -75,7 +73,8 @@ const BoardWrite = {
 					id: Number(document.forms[0].elements.id.value),
 					title: document.forms[0].elements.title.value,
 					writer: document.forms[0].elements.writer.value,
-					content: document.forms[0].elements.content.value,
+					// content: document.forms[0].elements.content.value,
+					content: quill.root.innerHTML,
 				});
 				alert("수정되었습니다.");
 				navigateTo(routeNames.boardList);
@@ -90,7 +89,7 @@ const BoardWrite = {
 				saveBoard({
 					title: document.forms[0].elements.title.value,
 					writer: document.forms[0].elements.writer.value,
-					content: document.forms[0].elements.content.value,
+					content: quill.root.innerHTML,
 				});
 				alert("저장되었습니다.");
 				navigateTo(routeNames.boardList);
